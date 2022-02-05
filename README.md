@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.patika.dev/ensozmus](https://app.patika.dev/ensozmus)
 
-- 💬 Ask me about **c# and .Net Core**
+- 💬 Ask me about **C# and .Net Core**
 
 - 📫 How to reach me **ensozmus@gmail.com**
 
