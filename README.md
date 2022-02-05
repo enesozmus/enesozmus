@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Ozmus</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **ASP.NET Core 6.0 Web Api.**
+- 🌱 I’m currently learning **C# and ASP.NET Core 6.0 Web Api.**
 
 - 👨‍💻 All of my projects are available at [https://app.patika.dev/ensozmus](https://app.patika.dev/ensozmus)
 
