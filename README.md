@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozmus&label=Profile%20views&color=0e75b6&style=flat" alt="enesozmus" /> </p>
 
 
-- 🌱 I’m currently learning **ASP.NET Core 6.0 Web Api.**
+- 🌱 I’m currently learning **.NET Core 6.0**
 
 - 👨‍💻 All of my projects are available at [https://app.patika.dev/ensozmus](https://app.patika.dev/ensozmus)
 
