@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **C# and ASP.NET Core 6.0**
 
-- 👨‍💻 All of my projects are available at [https://app.patika.dev/ensozmus](https://app.patika.dev/ensozmus)
-
 - 💬 Ask me about **C# and .NET Core**
 
 - 📫 How to reach me **ensozmus@gmail.com**
