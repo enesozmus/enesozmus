@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozmus&label=Profile%20views&color=0e75b6&style=flat" alt="enesozmus" /> </p>
 
 
-- 🌱 I’m currently learning **C# and .NET 6.0**
+- 🌱 I’m currently learning **C#, .NET 6.0 and SQL**
 
 - 📫 How to reach me **ensozmus@gmail.com**,   **https://www.linkedin.com/in/enesozmus/**
 
