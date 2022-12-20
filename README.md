@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ensozmus@gmail.com**,   **https://www.linkedin.com/in/enesozmus/**
 
-<h3 align="left">Technologies:</h3>
+<br/>
 <p align="left">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/></a>
         <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="43" height="43"/></a>
