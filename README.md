@@ -22,5 +22,5 @@
         <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="42" height="42"/></a>
         <a href="https://ngrx.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/16272733?s=200&v=4" alt="ngrx" width="42" height="42"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/></a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/></a>
 </p>
