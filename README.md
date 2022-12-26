@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozmus&label=Profile%20views&color=0e75b6&style=flat" alt="enesozmus" /> </p>
 
 
-- 🌱 I’m currently learning **C#, .NET 6.0, SQL and Angular**
+- 🌱 I’m currently learning **C#, .NET 6, EF Core 6, SQL and Angular**
 
 - 📫 How to reach me **ensozmus@gmail.com**,   **https://www.linkedin.com/in/enesozmus/**
 
@@ -12,6 +12,7 @@
 <p align="left">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/></a>
         <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="43" height="43"/></a>
+        <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"> <img src="https://github.com/campusMVP/dotnetCoreLogoPack/blob/master/Entity%20Framework%20Core/Bitmap%20RGB/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"alt="csharp" width="42" height="42"/></a>
        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="43" height="43"/></a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
 </p>
