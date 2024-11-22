@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesozmus&label=Profile%20views&color=0e75b6&style=flat" alt="enesozmus" /> </p>
 
 
-- 🌱 I’m currently learning **Swift, SwiftUI, C#, .NET 6, EF Core 6, SQL and Angular**
+- 🌱 I’m currently learning **C#, TypeScript, .NET, and Angular**
 
 - 📫 How to reach me **ensozmus@gmail.com**,   **https://www.linkedin.com/in/enesozmus/**
 <br/>
